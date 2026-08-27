@@ -1,3 +1,4 @@
+#Python App Core -> AI Model(LLM)
 
 import os
 import requests
